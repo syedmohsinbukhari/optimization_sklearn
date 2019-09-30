@@ -1,0 +1,12 @@
+__pycache__/
+out_images/
+.idea/
+.weights
+*.weights
+.pyc
+*.jpg
+*.png
+*.m~
+Release/
+weights/
+exported/
